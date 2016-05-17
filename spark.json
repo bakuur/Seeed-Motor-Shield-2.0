@@ -1,0 +1,7 @@
+{
+  "name": "Seeed_MotorShield",
+  "author": "Baker Al-Nakib",
+  "license": "GNU GENERAL PUBLIC LICENSE",
+  "version": "0.0.1",
+  "description": "Library for controling the DC Motor shield by Seeed"
+}
